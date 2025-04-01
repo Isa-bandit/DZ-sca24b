@@ -1,4 +1,4 @@
-package com.example.demo1;
+package com.example.dz1;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
