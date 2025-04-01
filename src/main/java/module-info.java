@@ -1,4 +1,4 @@
-module com.example.demo1 {
+module com.example.dz1 {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -13,6 +13,6 @@ module com.example.demo1 {
     requires org.apache.poi.ooxml;
     requires commons.math3;
 
-    opens com.example.demo1 to javafx.fxml;
-    exports com.example.demo1;
+    opens com.example.dz1 to javafx.fxml;
+    exports com.example.dz1;
 }
